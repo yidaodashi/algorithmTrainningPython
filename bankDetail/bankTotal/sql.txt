@@ -1,0 +1,15 @@
+UPDATE cm_reward_user_info SET bonus = bonus+10 where user_name ='13985455008'
+UPDATE cm_reward_areaplate_info SET areaplate_money = areaplate_money-10 WHERE areaplate_acount ='52010001'
+DELETE FROM cm_reward_bank_statement WHERE case_id = 'f5ea0089cfe44e44b6ce23b82f678092' LIMIT 1
+UPDATE cm_reward_user_info SET bonus = bonus+10 where user_name ='13985455008'
+UPDATE cm_reward_areaplate_info SET areaplate_money = areaplate_money-10 WHERE areaplate_acount ='52010001'
+DELETE FROM cm_reward_bank_statement WHERE case_id = '8400d5e6a36c4deea748635e540ea8de' LIMIT 1
+UPDATE cm_reward_user_info SET bonus = bonus+10 where user_name ='13985455008'
+UPDATE cm_reward_areaplate_info SET areaplate_money = areaplate_money-10 WHERE areaplate_acount ='52010001'
+DELETE FROM cm_reward_bank_statement WHERE case_id = 'ce1f305b555a4de690844bc96317c6f8' LIMIT 1
+UPDATE cm_reward_user_info SET bonus = bonus+10 where user_name ='13985455008'
+UPDATE cm_reward_areaplate_info SET areaplate_money = areaplate_money-10 WHERE areaplate_acount ='52010001'
+DELETE FROM cm_reward_bank_statement WHERE case_id = '18ddacf599754a159591c3f7a0df0d16' LIMIT 1
+UPDATE cm_reward_user_info SET bonus = bonus+10 where user_name ='13985455008'
+UPDATE cm_reward_areaplate_info SET areaplate_money = areaplate_money-10 WHERE areaplate_acount ='52010001'
+DELETE FROM cm_reward_bank_statement WHERE case_id = '1401d830ce2746ce92bf77a0e2f5e8ae' LIMIT 1

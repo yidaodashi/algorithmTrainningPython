@@ -1,0 +1,7 @@
+该项目是用python实现各种常见常用算法
+
+ArrayGroup 记录数组元组相关的算法和常见操作
+bankDetail 本人自己写的：记录百姓拍银行和公司提现记录比对内容
+bxp_bank_account_checking 同事写的：记录百姓拍银行和公司提现记录比对内容
+smallTools 记录各种小游戏，小工具的书写
+videoIndentification 图片数据集整理过程：图片存储一个文件夹、图片voc格式转yolo格式、图片转成指定分辨率
